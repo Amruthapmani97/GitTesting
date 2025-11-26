@@ -6,7 +6,7 @@ public class SampleGit {
 		// TODO Auto-generated method stub
 		System.out.println("haiii");
 		System.out.println("welcome to gitHub");
-
+		System.out.println("commited");
 	}
 
 }
